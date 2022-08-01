@@ -1,10 +1,20 @@
 ---
 layout: post
-title: You're up and running!
+title: 키오스크 웹 연동(사이드 프로젝)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+#1. 개요
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+    음식점, 카페 음료 등을 선택하여 제품을 구매 및 결제하는 웹을 만들 수 있다.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+#2. 기술 스택
+
+    프론트 엔드 (html, CSS, JavaScript, JQuery, BootStrap)  
+
+    백엔드 (ASP.NET Core, MSSQL)
+
+#3. 기능 요구사항
+
+    1) 여러개의 제품을 선택하는 화면이 있고, 제품의 총 주문 수량, 총 구매 가격을 표시할 수 있다.
+
+    2) 
